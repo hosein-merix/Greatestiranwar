@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "حزب سومکا",
+    "members": [],
+    "regions": {
+      "تهران": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "همدان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "فارس": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "خوزستان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "خراسان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "بلوچستان": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "حزب توده",
+    "members": [],
+    "regions": {
+      "مازندران": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "آذربایجان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "کردستان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "لرستان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "اصفهان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "گیلان": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "حزب ملی",
+    "members": [],
+    "regions": {
+      "یزد": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "کرمان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "هرمزگان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "بوشهر": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "کهگیلویه": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "چهارمحال": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "حزب جهاد",
+    "members": [],
+    "regions": {
+      "سمنان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "قزوین": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "قم": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "البرز": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "مرکزی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "زنجان": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "حزب خورشید",
+    "members": [],
+    "regions": {
+      "گلستان": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "اردبیل": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "ایلام": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "کرمانشاه": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "خراسان شمالی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "خراسان جنوبی": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "حزب ماشه",
+    "members": [],
+    "regions": {
+      "خراسان رضوی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "فارس مرکزی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "اصفهان شرقی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "تهران شرقی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "خوزستان شرقی": {
+        "soldiers": 0,
+        "companies": []
+      },
+      "بلوچستان شرقی": {
+        "soldiers": 0,
+        "companies": []
+      }
+    }
+  }
+]
