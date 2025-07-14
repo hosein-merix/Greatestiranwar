@@ -1,0 +1,8 @@
+[project]
+name = "political-war-bot"
+version = "1.0.0"
+description = "Persian Political War Telegram Bot with Regional Warfare System"
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot==21.0",
+]

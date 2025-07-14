@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env
+.git/
+.gitignore
+README.md
+.DS_Store
+*.log
+.replit
+uv.lock
+.pythonlibs/
+attached_assets/
+main (copy).py

@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  political-war-bot:
+    build: .
+    container_name: political-war-bot
+    restart: unless-stopped
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN:-8109322082:AAFBpC7pIJRiLogy_4pvZ8Gd6zQ4W6O74s4}
+      - ADMIN_ID=${ADMIN_ID:-123456789}
+    volumes:
+      - ./data:/app/data
+    working_dir: /app
+    command: python main.py
