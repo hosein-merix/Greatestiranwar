@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "حزب سومکا", "region": "تهران", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 2, "name": "حزب توده", "region": "همدان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 3, "name": "حزب ملی", "region": "فارس", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 4, "name": "حزب جهاد", "region": "خوزستان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 5, "name": "حزب خورشید", "region": "خراسان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 6, "name": "حزب ماشه", "region": "بلوچستان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 7, "name": "حزب تاج", "region": "مازندران", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 8, "name": "حزب سرخ", "region": "آذربایجان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 9, "name": "حزب پژوک", "region": "کردستان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 10, "name": "حزب ناک اوت", "region": "لرستان", "members": [], "soldiers": 0, "companies": [] },
+  { "id": 11, "name": "حزب سرمایه", "region": "اصفهان", "members": [], "soldiers": 0, "companies": [] }
+]
